@@ -4,8 +4,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=navi-karan&label=Profile%20views&color=0e75b6&style=flat" alt="navi-karan" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=navi-karan" alt="navi-karan" /></a> </p>
-
 - 🔭 I’m currently working on [ZebPay (Live crypto project)](https://play.google.com/store/apps/details?id=zebpay.Application)
 
 - 🌱 I’m currently learning **Flutter Web, Cloud Functions Firebase**
