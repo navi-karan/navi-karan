@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **karan.agarwal@navikaran.co.in**
 
-- 📄 Know about my experiences [https://firebasestorage.googleapis.com/v0/b/navikaran-hrms.appspot.com/o/Karan's%20Resume.pdf?alt=media&token=bc460c15-5c21-47a2-9ec0-e49a97dd6577)
+- 📄 Know about my experiences https://firebasestorage.googleapis.com/v0/b/navikaran-hrms.appspot.com/o/Karan's%20Resume.pdf?alt=media&token=bc460c15-5c21-47a2-9ec0-e49a97dd6577
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
