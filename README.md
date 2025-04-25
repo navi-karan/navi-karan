@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=navi-karan&label=Profile%20views&color=0e75b6&style=flat" alt="navi-karan" /> </p>
 
-- 🔭 I’m currently working on [ZebPay (Live crypto project)](https://play.google.com/store/apps/details?id=zebpay.Application)
+- 🔭 One of my projects highlight [ZebPay (Live crypto project)](https://play.google.com/store/apps/details?id=zebpay.Application)
 
 - 🌱 I’m currently learning **Flutter Web, Cloud Functions Firebase**
 
