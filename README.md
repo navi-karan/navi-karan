@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **karan.agarwal@navikaran.co.in**
 
-- 📄 Know about my experiences bit.ly/4cQJGvt
+- 📄 Know about my experiences [(https://bit.ly/4cQJGvt)]
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
