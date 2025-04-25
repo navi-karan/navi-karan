@@ -5,7 +5,7 @@
 
 - 🔭 One of my projects highlight [ZebPay (Live crypto project)](https://play.google.com/store/apps/details?id=zebpay.Application)
 
-- 🌱 I’m currently learning **Flutter Web, Cloud Functions Firebase**
+- 🌱 Skills **Flutter Web, Flutter, BLoC state management, Stacked state Management (Flutter MVVM architecture), Firebase cloud platform, Syncfusion Flutter Charts for charting, Android Native, Kotlin Flow, Livedata, Kotlin coroutines & CI/CD systems**
 
 - 💬 Ask me about **Android, Flutter**
 
